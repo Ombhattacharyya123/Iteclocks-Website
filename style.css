@@ -1,0 +1,140 @@
+#find{
+    width: 1000px;
+    border-style: groove;
+    border-color: aquamarine;
+    border-width: 3px;
+    border-radius: 20px;
+    margin-left: 12px;
+}
+#btn_find{
+    border-width: 3px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: aquamarine;
+}
+#btn_help{
+    margin-left: 100px;
+    margin-top: 5px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: aquamarine;
+    border-width: 3px;
+}
+
+#btn_cart{
+    margin-top: 5px;
+    margin-left: 10px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: aquamarine;
+    border-width: 3px; 
+}
+.btn:hover{
+    background-color: aqua;
+    transform:scale(1.1);
+} 
+#btn_sugges{
+    margin-top: 5px;
+    margin-left: 10px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: aquamarine;
+    border-width: 3px; 
+}
+.btn-success{
+    text-align: center;
+    width: 500px;
+    border-radius: 20px;
+    border-color: aquamarine;
+    border-width: 3px;
+    border-style: groove;
+    margin-left: 400px;
+}
+.img_product{
+    height: 300px;
+    width: 300px;
+    margin-left: 20px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    border-style: double;
+    border-width: 4px;
+    border-color: black;
+}
+
+.line_border{
+    font-display: bold;
+    color: aquamarine;
+}
+#btn_color{
+    margin-top: 5px;
+    margin-left: 20px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: aquamarine;
+    border-width: 3px;
+    height: 20px;
+    width: 20px; 
+    background-color: green;  
+}
+#btn_color1{
+    margin-top: 5px;
+    margin-left: 20px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: aquamarine;
+    border-width: 3px;
+    height: 20px;
+    width: 20px; 
+    background-color: pink;
+}
+#btn_color2{
+    margin-top: 5px;
+    margin-left: 20px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: aquamarine;
+    border-width: 3px;
+    height: 20px;
+    width: 20px; 
+    background-color: white;
+}
+#btn_color3{
+    margin-top: 5px;
+    margin-left: 20px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: aquamarine;
+    border-width: 3px;
+    height: 20px;
+    width: 20px; 
+    background-color: yellow;
+}
+#btn_color4{
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-bottom: 1000px;
+    border-style: groove;
+    border-radius: 20px;
+    border-color: aquamarine;
+    border-width: 3px;
+    height: 20px;
+    width: 20px; 
+    background-color:red;
+}
+.btn_colours:hover{
+    transform: scale(1.2);
+    
+}
+.header{
+    margin-left: 350px;
+}
+.line_border{
+   border-color: aquamarine;
+    width:2px;
+
+}
+.btn_colours{
+    text-align: top;
+}
